@@ -5,7 +5,7 @@
 
 🎓 **Bachelor of Information Technology** from Vietnam Aviation Academy.
 🚀 Passionate about building scalable applications with a focus on **AI Research (XAI)**, **Real-time Data Pipelines**, and **Robust Backend Systems**.
-🖇️ Check out my [Portfolio/CV](https://github.com/haidangnguyen-cs/haidangnguyen-cs/raw/main/nguyenhaidang_cv.pdf)
+🖇️ Check out my [Portfolio/CV](https://docs.google.com/viewer?url=https://github.com/haidangnguyen-cs/haidangnguyen-cs/raw/main/nguyenhaidang_cv.pdf)
 
 ---
 
