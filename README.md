@@ -7,15 +7,6 @@
 🚀 Passionate about building scalable applications with a focus on **AI Research (XAI)**, **Real-time Data Pipelines**, and **Robust Backend Systems**.
 🖇️ Check out my [Portfolio/CV](https://docs.google.com/viewer?url=https://github.com/haidangnguyen-cs/haidangnguyen-cs/raw/main/nguyenhaidang_cv.pdf)
 
----
-
-### 🔧 What I'm Doing
-
-* 🧠 **AI Research (XAI):** Investigating model interpretability (**SHAP, LIME, IG**) for GNN and Transformer models in software security at **InsecLab (UIT)**.
-* 📊 **Real-time Pipelines:** Architecting streaming systems using **Kafka**, **Spark**, and **Cassandra** for AI-driven insights.
-* 🏗️ **Backend Engineering:** Developing high-performance asynchronous APIs with **FastAPI** and **Python**.
-
-
 
 ---
 
